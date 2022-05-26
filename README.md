@@ -38,9 +38,9 @@
  
  <h3>Connect with me</h3>
  <p>
-   <a href="https://https://www.linkedin.com/in/ignacio-kruchowski-b6299b22a/" target=_blank><img src="https://i.imgur.com/vuG9Xzy.gif" width="50"><a>
-   <a href="https://https://www.instagram.com/juanikruchowski/" target=_blank><img src="https://i.imgur.com/XX8Fw8v.gif" width="50"><a>
-   <a href="https://https://twitter.com/Ignakrucho" target=_blank><img src="https://i.imgur.com/Oiav27o.gif" width="50"><a>
+   <a href="https://www.linkedin.com/in/ignacio-kruchowski-b6299b22a/" target=_blank><img src="https://i.imgur.com/vuG9Xzy.gif" width="50"><a>
+   <a href="https://www.instagram.com/juanikruchowski/" target=_blank><img src="https://i.imgur.com/XX8Fw8v.gif" width="50"><a>
+   <a href="https://twitter.com/Ignakrucho" target=_blank><img src="https://i.imgur.com/Oiav27o.gif" width="50"><a>
  </p>
  <br>
  <br>
