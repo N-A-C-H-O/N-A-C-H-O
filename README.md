@@ -29,10 +29,10 @@
    <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50"></a>
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50"></a>
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"></a>
-  <a href="https://es.reactjs.org/" target="_blank"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"></a>
+  <!-- <a href="https://es.reactjs.org/" target="_blank"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"></a> -->
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"></a>
   <a href="https://www.sublimetext.com/" target="_blank"><img src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="50"></a>
-  <a href="https://nodejs.org/es/" target="_blank"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"></a>
+  <!-- <a href="https://nodejs.org/es/" target="_blank"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"></a> -->
   <a href="https://git-scm.com/" target="_blank"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"></a>
  <p>
  
