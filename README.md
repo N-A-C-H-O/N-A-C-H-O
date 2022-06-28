@@ -17,7 +17,7 @@
 
 <h4>⚡ Hobbies ⚡</h4> 
 
-- I like reading and especially police books 🕵️‍♂️
+- I like sports and training 🚴‍♂️
 - I usually play the guitar 🎸
 - I'm learning English 🌎
 
