@@ -1,5 +1,4 @@
 <div align="center">
-  <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
   <img src="https://i.imgur.com/2tmabbs.gif" width=400>
 </div>
 <br>
@@ -7,7 +6,7 @@
 <br>
 
 <h1 align="center">Hi 👋, I'm Ignacio</h1>
-<h3 align="center">A passionate frontend developer from Argentina 📌</h3>
+<h3 align="center">A passionate frontend developer from Argentina 👨‍💻</h3>
 <br>
 <br>
 
@@ -25,15 +24,15 @@
 
 <h3>Languages and tools</h3>
 <p>
-  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50"></a>
-   <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50"></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50"></a>
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"></a>
-  <!-- <a href="https://es.reactjs.org/" target="_blank"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"></a> -->
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"></a>
-  <a href="https://www.sublimetext.com/" target="_blank"><img src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="50"></a>
-  <!-- <a href="https://nodejs.org/es/" target="_blank"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"></a> -->
-  <a href="https://git-scm.com/" target="_blank"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"></a>
+   <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"></a>
+  <a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"></a>
+  <a href="https://es.reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"></a>
+  <a href="https://nodejs.org/es/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"></a>
  <p>
  
  <h3>Connect with me</h3>
