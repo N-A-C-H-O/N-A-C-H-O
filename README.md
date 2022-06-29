@@ -41,8 +41,7 @@
  </p>
  <br>
  <br>
+ <br>
  
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n-a-c-h-o&theme=apprentice&show_icons=true">
- </div>
+ ![N-A-C-H-O's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-a-c-h-o&theme=apprentice&show_icons=true)
 
