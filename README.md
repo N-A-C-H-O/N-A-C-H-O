@@ -6,19 +6,6 @@
 <h2 align="center">Hi 👋, I'm Ignacio</h2>
 <h3 align="center">A passionate Developer from Argentina 👨‍💻</h3>
 <br>
-<br>
-<!-- 
-<h4>Currently 🔨</h4>
-
-- 🌱 I’m learning JavaScript and React JS
-- 📫 How to reach me: ✉ ignakruchowski@gmail.com
-
-<h4>Hobbies 🙋‍♂️</h4>
-
-- I like sports and training 🚴‍♂️
-- I usually play the guitar 🎸
-- I like reading 📚
-  -->
 
 <h3>Technologies</h3>
 
@@ -33,18 +20,16 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <br>
-<br>
 <h3 align="center">Connect with me</h3> <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/ignacio-kruchowski/" target=_blank><img src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" width="50"><a>
 </p>
 <br>
 <br>
-<br>
 
-<div style="text-align: center">
+<div align="center">
   
    ![N-A-C-H-O's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-a-c-h-o&theme=apprentice&show_icons=true)
-
+   
 </div>
 
