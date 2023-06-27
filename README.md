@@ -21,9 +21,9 @@
 
 <h3>Stats</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkrusho&layout=donut-vertical&theme=apprentice)](https://github.com/iamkrusho/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krushodev&layout=donut-vertical&theme=apprentice)](https://github.com/krushodev/github-readme-stats)
 
-![IamKrusho's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamkrusho&theme=apprentice&show_icons=true) 
+![krushodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=krushodev&theme=apprentice&show_icons=true) 
   
 
 <br>
